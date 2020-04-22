@@ -23,7 +23,7 @@ To run bottleSumEx with the same settings as ours:
 ```
 python bottleEx_summarize.py -S1_path <S1FILE> -S2_path <S2FILE> -S3_path <S3FILE> -rem_words 3 -out_name <OUTNAME>
 ```
-<S1FILE> contains the original sentences. <S2FILE> contains the next sentences of the original ones. <S3FILE> includes the title of the original sentences' corresponding text.
+S1FILE contains the original sentences. S2FILE contains the next sentences of the original ones. S3FILE includes the title of the original sentences' corresponding text.
 
 #### Acknowledge：
 
