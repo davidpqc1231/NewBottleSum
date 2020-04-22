@@ -1,6 +1,6 @@
 # NewBottleSum
 
-Code for Natural Language Understanding Course Project by Qucheng Peng, Qiyu Xiao and Kai Liao in New York University 
+Code for Natural Language Understanding Course Project by Qucheng Peng, Qiyu Xiao and Kai Liao in New York University.
 
 
 
@@ -28,4 +28,4 @@ S1FILE contains the original sentences. S2FILE contains the next sentences of th
 #### Acknowledge：
 
 Borrow a lot from https://github.com/peterwestuw/BottleSum.git.
-Thanks so much for Mr. Peter West at University of Washington, our Professor Samuel Bowman and all the TAs of this course 
+Thanks so much for Mr. Peter West at University of Washington, our Professor Samuel Bowman and all the TAs of this course.
