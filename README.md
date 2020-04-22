@@ -27,5 +27,5 @@ python bottleEx_summarize.py -S1_path <S1FILE> -S2_path <S2FILE> -S3_path <S3FIL
 
 #### Acknowledge：
 
-Borrow a lot from >https://github.com/peterwestuw/BottleSum.git.
+Borrow a lot from https://github.com/peterwestuw/BottleSum.git.
 Thanks so much for Mr. Peter West at University of Washington, our Professor Samuel Bowman and all the TAs of this course 
