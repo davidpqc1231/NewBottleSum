@@ -76,6 +76,9 @@ def main():
             examples_S3 += [line.rstrip()]
         ############
             
+        #print('S1 length: ',len(examples_S1))
+        #print('S2 length: ',len(examples_S2))
+        #print('S3 length: ',len(examples_S3))
         assert(len(examples_S1) == len(examples_S2))
         assert(len(examples_S2) == len(examples_S3))
     
