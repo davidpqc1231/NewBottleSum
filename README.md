@@ -1,6 +1,6 @@
 # NewBottleSum
 
-Code for Natural Language Understanding Course Project by Qucheng Peng, Qiyu Xiao and Kai Liao in New York University.
+Code for Natural Language Understanding Course Project by Qucheng Peng, Qiyu Xiao and Kai Liao at New York University.
 
 
 
